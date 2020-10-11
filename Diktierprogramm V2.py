@@ -1,3 +1,7 @@
+# OLD VERSION
+# PROJECT is still using queues.
+
+
 import tkinter as tk
 import multiprocessing
 import concurrent.futures
