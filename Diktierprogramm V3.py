@@ -495,7 +495,6 @@ class GoogleCloudSTTAPI:
         self.response = None
         self.response_dict = {}
 
-        self.auth_path = "C:/Users/AliSot2000/Documents/Google_Cloud/tribal-sunbeam-286522-d7283289ed2b.json"
         self.auth_path = "[PATH TO AUTH FILE FROM GOOGLE]"
 
 
