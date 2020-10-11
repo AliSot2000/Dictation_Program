@@ -406,7 +406,7 @@ class Google_Cloud_STT_API:
 
         self.request_config = None
 
-        self.auth_path = "C:/Users/AliSot2000/Documents/Google_Cloud/tribal-sunbeam-286522-d7283289ed2b.json"
+        self.auth_path = "[PATH TO AUTH FILE]"
 
         # self.auth_obj = service_account.Credentials.from_service_account_file(self.auth_path)
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=self.auth_path
