@@ -1,4 +1,6 @@
-# UPDATE: GUI wird jetzt multigethreaded => Geht nicht, GUI kann nicht gepickelt werden.
+# CURRENT VERSION
+# MOVE GoogleCloudSTTAPI class to different file and run with separate interpreter for the project to function
+# PROJECT doesn't use Queues
 
 import tkinter as tk
 import multiprocessing
