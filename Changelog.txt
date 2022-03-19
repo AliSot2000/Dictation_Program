@@ -1,0 +1,3 @@
+# CHANGELO
+- expanded Diktierprogram.bash script with a which python line for easyer debugging
+- added a new function to create a activate file. this file corrects for the location of the venv, in case it's moved.
